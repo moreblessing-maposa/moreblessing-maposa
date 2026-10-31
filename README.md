@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://moreblessing-maposa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-moreblessing--maposa.vercel.app-7dd3c0?style=flat-square&labelColor=0b0f10&logo=vercel&logoColor=7dd3c0" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/moreblessing-maposa"><img src="https://img.shields.io/badge/LinkedIn-moreblessing--maposa-7dd3c0?style=flat-square&labelColor=0b0f10&logo=linkedin&logoColor=7dd3c0" alt="LinkedIn"></a>
-  <a href="mailto:moreblessingmmaposa@gmail.com"><img src="https://img.shields.io/badge/Email-moreblessingmmaposa%40gmail.com-7dd3c0?style=flat-square&labelColor=0b0f10&logo=gmail&logoColor=7dd3c0" alt="Email"></a>
+  <a href="https://moreblessing-maposa.vercel.app/#contact"><img src="https://img.shields.io/badge/Email-moreblessingmmaposa%40gmail.com-7dd3c0?style=flat-square&labelColor=0b0f10&logo=gmail&logoColor=7dd3c0" alt="Email"></a>
 </p>
 
 <img src="assets/title-about.svg" width="100%" alt="01 About: Hello, I'm Moreblessing">
@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:moreblessingmmaposa@gmail.com"><img src="https://img.shields.io/badge/Email-moreblessingmmaposa%40gmail.com-7dd3c0?style=flat-square&labelColor=0b0f10&logo=gmail&logoColor=7dd3c0" alt="Email"></a>
+  <a href="https://moreblessing-maposa.vercel.app/#contact"><img src="https://img.shields.io/badge/Email-moreblessingmmaposa%40gmail.com-7dd3c0?style=flat-square&labelColor=0b0f10&logo=gmail&logoColor=7dd3c0" alt="Email"></a>
   <a href="https://www.linkedin.com/in/moreblessing-maposa"><img src="https://img.shields.io/badge/LinkedIn-moreblessing--maposa-7dd3c0?style=flat-square&labelColor=0b0f10&logo=linkedin&logoColor=7dd3c0" alt="LinkedIn"></a>
   <a href="https://moreblessing-maposa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-moreblessing--maposa.vercel.app-7dd3c0?style=flat-square&labelColor=0b0f10&logo=vercel&logoColor=7dd3c0" alt="Portfolio"></a>
 </p>
