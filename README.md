@@ -6,10 +6,10 @@
 </picture>
 </a>
 
-<p align="center">
-  <a href="https://moreblessing-maposa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-moreblessing--maposa.vercel.app-7dd3c0?style=flat-square&labelColor=0b0f10&logo=vercel&logoColor=7dd3c0" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/moreblessing-maposa"><img src="https://img.shields.io/badge/LinkedIn-moreblessing--maposa-7dd3c0?style=flat-square&labelColor=0b0f10&logo=linkedin&logoColor=7dd3c0" alt="LinkedIn"></a>
-  <a href="https://moreblessing-maposa.vercel.app/#contact"><img src="https://img.shields.io/badge/Email-moreblessingmmaposa%40gmail.com-7dd3c0?style=flat-square&labelColor=0b0f10&logo=gmail&logoColor=7dd3c0" alt="Email"></a>
+<p>
+  <a href="https://moreblessing-maposa.vercel.app"><img src="assets/link-portfolio.svg" height="32" alt="Portfolio: moreblessing-maposa.vercel.app"></a>
+  <a href="https://www.linkedin.com/in/moreblessing-maposa"><img src="assets/link-linkedin.svg" height="32" alt="LinkedIn: moreblessing-maposa"></a>
+  <a href="mailto:moreblessingmmaposa@gmail.com"><img src="assets/link-email.svg" height="32" alt="Email: moreblessingmmaposa@gmail.com"></a>
 </p>
 
 <img src="assets/title-about.svg" width="100%" alt="01 About: Hello, I'm Moreblessing">
@@ -49,14 +49,14 @@
 
 <img src="assets/title-connect.svg" width="100%" alt="07 Contact: have a role or a project in mind?">
 
-<p align="center">
+<p>
   Open to remote roles and consulting. Through <b>MorTech</b>, my consulting practice, I take on selective part-time work in analytics, business analysis, automation and business systems.
 </p>
 
-<p align="center">
-  <a href="https://moreblessing-maposa.vercel.app/#contact"><img src="https://img.shields.io/badge/Email-moreblessingmmaposa%40gmail.com-7dd3c0?style=flat-square&labelColor=0b0f10&logo=gmail&logoColor=7dd3c0" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/moreblessing-maposa"><img src="https://img.shields.io/badge/LinkedIn-moreblessing--maposa-7dd3c0?style=flat-square&labelColor=0b0f10&logo=linkedin&logoColor=7dd3c0" alt="LinkedIn"></a>
-  <a href="https://moreblessing-maposa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-moreblessing--maposa.vercel.app-7dd3c0?style=flat-square&labelColor=0b0f10&logo=vercel&logoColor=7dd3c0" alt="Portfolio"></a>
+<p>
+  <a href="mailto:moreblessingmmaposa@gmail.com"><img src="assets/link-email.svg" height="32" alt="Email: moreblessingmmaposa@gmail.com"></a>
+  <a href="https://www.linkedin.com/in/moreblessing-maposa"><img src="assets/link-linkedin.svg" height="32" alt="LinkedIn: moreblessing-maposa"></a>
+  <a href="https://moreblessing-maposa.vercel.app"><img src="assets/link-portfolio.svg" height="32" alt="Portfolio: moreblessing-maposa.vercel.app"></a>
 </p>
 
 <a href="https://moreblessing-maposa.vercel.app"><img src="assets/footer.svg" width="100%" alt="Moreblessing Martha Maposa. Analyse the problem. Build the fix."></a>
