@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="92" viewBox="0 0 1000 92" role="img" aria-label="06 toolkit: The tools I reach for"><title>06 toolkit: The tools I reach for</title><style>
-.serif{font-family:Georgia,'Times New Roman',serif} .sans{font-family:'Segoe UI',Helvetica,Arial,sans-serif} .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
-@keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
-.rise{animation:rise .7s .1s both}
-@media (prefers-reduced-motion:reduce){*{animation:none!important}}
-</style><g class="rise"><text x="4" y="30" class="mono" font-size="13" letter-spacing="2.5" fill="#7dd3c0">// 06 / TOOLKIT</text><rect x="161" y="25" width="56" height="1.5" fill="#7dd3c0" opacity="0.6"/><text x="2" y="76" class="serif" font-size="36" fill="#e8efed">The tools I reach for</text></g></svg>
